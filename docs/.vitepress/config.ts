@@ -37,7 +37,7 @@ export default defineConfig({
           { text: 'Contribution Guidelines', link: '/contribute/contributing' },
           { text: 'Contact', link: '/contribute/contact' },
           { text: 'Repository', link: 'https://github.com/RE-Tamayo/absl' },
-          { text: 'Donate', link: 'https://youtube.com' }
+          // { text: 'Donate', link: 'https://youtube.com' }
         ]
       }
     ],
