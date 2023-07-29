@@ -27,6 +27,7 @@ export default defineConfig({
           { text: 'CRUD Operations', link: '/usage/' },
           { text: 'Authentication', link: '/usage/authentication' },
           { text: 'Data Validation', link: '/usage/data-validation' },
+          { text: 'Data Filtering', link: '/usage/data-filtering' },
           { text: 'Input Sanitation', link: '/usage/input-sanitation' },
           { text: 'Examples', link: '/usage/examples' }
         ]
@@ -43,7 +44,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/RE-Tamayo' },
+      { icon: 'github', link: 'https://github.com/RE-Tamayo/absl' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/emerjoe-rosas-401770213' }
     ],
 
